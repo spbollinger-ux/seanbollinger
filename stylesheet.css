@@ -91,6 +91,11 @@ height: 400px;
 width: auto;
 }
 
+#logo{
+    width: 500px;
+    height: auto;
+}
+
 #bigimg{
     width: 600px;
     height: auto;
